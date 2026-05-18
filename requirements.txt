@@ -1,4 +1,4 @@
-streamlit==1.45.1
+streamlit
 
 numpy==1.26.4
 pandas==2.2.2
@@ -9,7 +9,6 @@ imbalanced-learn==0.12.3
 xgboost==2.0.3
 
 rdkit-pypi==2022.9.5
-
 mordred==1.2.0
 
-openpyxl==3.1.5
+openpyxl
