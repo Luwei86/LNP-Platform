@@ -1,0 +1,6 @@
+streamlit>=1.30.0
+pandas>=2.0.0
+padelpy>=0.1.10
+scikit-learn>=1.0.0
+xgboost>=2.0.0
+openpyxl>=3.0.0
