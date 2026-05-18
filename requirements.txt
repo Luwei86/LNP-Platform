@@ -1,11 +1,12 @@
 streamlit==1.45.1
 
-pandas==2.2.2
 numpy==1.26.4
+pandas==2.2.2
 
 scikit-learn==1.5.1
-xgboost==2.1.1
 imbalanced-learn==0.12.3
+
+xgboost==2.0.3
 
 rdkit-pypi==2022.9.5
 
